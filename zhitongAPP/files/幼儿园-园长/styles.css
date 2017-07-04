@@ -5422,3 +5422,30 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2828_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:66px;
+}
+#u2828 {
+  position:absolute;
+  left:201px;
+  top:139px;
+  width:375px;
+  height:66px;
+  font-family:'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FF9900;
+  text-align:left;
+}
+#u2829 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:371px;
+  word-wrap:break-word;
+}
