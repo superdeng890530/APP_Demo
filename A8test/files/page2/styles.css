@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:975px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,18 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u17 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:971px;
+  height:799px;
+}
+#u17_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:971px;
+  height:799px;
 }
