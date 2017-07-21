@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u506_img {
+#u565_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1256px;
   height:777px;
 }
-#u506 {
+#u565 {
   position:absolute;
   left:47px;
   top:887px;
   width:1256px;
   height:777px;
 }
-#u507 {
+#u566 {
   position:absolute;
   left:2px;
   top:380px;
@@ -34,21 +34,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u508_img {
+#u567_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1359px;
   height:903px;
 }
-#u508 {
+#u567 {
   position:absolute;
   left:0px;
   top:0px;
   width:1359px;
   height:903px;
 }
-#u509 {
+#u568 {
   position:absolute;
   left:2px;
   top:444px;
@@ -56,7 +56,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u510 {
+#u569 {
   position:absolute;
   left:0px;
   top:0px;
@@ -65,7 +65,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u511 {
+#u570 {
   position:fixed;
   right:0px;
   bottom:20px;
@@ -73,7 +73,7 @@
   height:31px;
   overflow:hidden;
 }
-#u511_state0 {
+#u570_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -85,21 +85,21 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u511_state0_content {
+#u570_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u512_img {
+#u571_img {
   position:absolute;
   left:0px;
   top:0px;
   width:38px;
   height:31px;
 }
-#u512 {
+#u571 {
   position:absolute;
   left:37px;
   top:0px;
@@ -112,25 +112,25 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u512_img.selected {
+#u571_img.selected {
 }
-#u512.selected {
+#u571.selected {
 }
-#u513 {
+#u572 {
   position:absolute;
   left:0px;
   top:9px;
   width:37px;
   word-wrap:break-word;
 }
-#u514_img {
+#u573_img {
   position:absolute;
   left:0px;
   top:0px;
   width:31px;
   height:31px;
 }
-#u514 {
+#u573 {
   position:absolute;
   left:37px;
   top:0px;
@@ -143,11 +143,11 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u514_img.selected {
+#u573_img.selected {
 }
-#u514.selected {
+#u573.selected {
 }
-#u515 {
+#u574 {
   position:absolute;
   left:0px;
   top:1px;
