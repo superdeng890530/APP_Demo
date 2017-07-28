@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
     <meta name="keywords" content="百度地图,百度地图API，百度地图自定义工具，百度地图所见即所得工具" />
     <meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
     <title>百度地图API自定义地图</title>
     <!--引用百度地图API-->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=5c4b6cfcdf62237013fe7c34ddb9d80c"></script>
   </head>
+  
   <body>
     <!--百度地图容器-->
-    <div style="width:1086px;height:445px;border:#ccc solid 1px;font-size:12px" id="map"></div>
-   
+    <div style="width:1066px;height:445px;border:#ccc solid 1px;font-size:12px" id="map"></div>
+  
   </body>
-
   <script type="text/javascript">
     //创建和初始化地图函数：
     function initMap(){
@@ -24,7 +24,7 @@
     }
     function createMap(){ 
       map = new BMap.Map("map"); 
-      map.centerAndZoom(new BMap.Point(118.783074,32.052636),15);
+      map.centerAndZoom(new BMap.Point(118.790189,32.050739),15);
     }
     function setMapEvent(){
       map.enableScrollWheelZoom();
@@ -38,6 +38,25 @@
       });
     }
     function addMapOverlay(){
+      var markers = [
+        {content:"我的备注",title:"江苏省南京市秦淮区上海路185号",imageOffset: {width:0,height:3},position:{lat:32.052208,lng:118.789111}}
+      ];
+      for(var index = 0; index < markers.length; index++ ){
+        var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",new BMap.Size(20,25),{
+          imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
+        })});
+        var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
+        var opts = {
+          width: 200,
+          title: markers[index].title,
+          enableMessage: false
+        };
+        var infoWindow = new BMap.InfoWindow(markers[index].content,opts);
+        marker.setLabel(label);
+        addClickHandler(marker,infoWindow);
+        map.addOverlay(marker);
+      };
     }
     //向地图添加控件
     function addMapControl(){
