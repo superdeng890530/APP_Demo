@@ -1589,17 +1589,17 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文行楷 Oblique', '华文行楷';
+  font-family:'华文行楷 Oblique', '华文行楷 Regular', '华文行楷';
   font-weight:400;
   font-style:oblique;
 }
 #u993 {
   position:absolute;
   left:198px;
-  top:744px;
+  top:760px;
   width:913px;
   height:338px;
-  font-family:'华文行楷 Oblique', '华文行楷';
+  font-family:'华文行楷 Oblique', '华文行楷 Regular', '华文行楷';
   font-weight:400;
   font-style:oblique;
 }
@@ -1610,41 +1610,7 @@
   width:913px;
   white-space:nowrap;
 }
-#u995_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:107px;
-  height:37px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-}
 #u995 {
-  position:absolute;
-  left:1012px;
-  top:1071px;
-  width:107px;
-  height:37px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-}
-#u996 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:107px;
-  white-space:nowrap;
-}
-#u997 {
   position:absolute;
   left:57px;
   top:124px;
