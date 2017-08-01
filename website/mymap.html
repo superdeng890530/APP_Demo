@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html >
   <head>
-    <meta http-equiv="Content-Type" content="text/html"; charset="gb2312" />
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf8" />
     <meta name="keywords" content="百度地图,百度地图API，百度地图自定义工具，百度地图所见即所得工具" />
     <meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
     <title>百度地图API自定义地图</title>
@@ -10,17 +10,17 @@
   </head>
   
   <body>
-    <!--百度地图容器-->
+
     <div style="width:1066px;height:445px;border:#ccc solid 1px;font-size:12px" id="map"></div>
   
   </body>
   <script type="text/javascript">
     //创建和初始化地图函数：
     function initMap(){
-      createMap();//创建地图
-      setMapEvent();//设置地图事件
-      addMapControl();//向地图添加控件
-      addMapOverlay();//向地图添加覆盖物
+      createMap();
+      setMapEvent();
+      addMapControl();
+      addMapOverlay();
     }
     function createMap(){ 
       map = new BMap.Map("map"); 
