@@ -987,3 +987,32 @@
   width:1000px;
   word-wrap:break-word;
 }
+#u1856_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:274px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1856 {
+  position:absolute;
+  left:99px;
+  top:1076px;
+  width:274px;
+  height:32px;
+}
+#u1857 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:270px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
