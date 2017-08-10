@@ -57,7 +57,15 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
@@ -77,6 +85,11 @@
   color:#333333;
   text-align:center;
   line-height:normal;
+}
+.snapshot {
+}
+.sticky_1 {
+  text-align:left;
 }
 .box_2 {
 }
