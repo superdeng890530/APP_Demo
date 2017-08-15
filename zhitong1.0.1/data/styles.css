@@ -51,11 +51,22 @@
 ._文本段落 {
   text-align:left;
 }
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 .line {
 }
 .text_field {
   color:#000000;
   text-align:left;
+}
+.icon {
 }
 .text_area {
   color:#000000;
@@ -98,6 +109,8 @@
 }
 .box_1 {
 }
+.image {
+}
 ._复选框 {
   text-align:left;
 }
@@ -120,7 +133,7 @@
   font-size:14px;
   text-align:left;
 }
-._形状 {
+._形状1 {
 }
 ._图片 {
   color:#000000;
