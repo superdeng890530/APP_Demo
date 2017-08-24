@@ -2453,7 +2453,7 @@
 }
 #u320 {
   position:absolute;
-  left:70px;
+  left:213px;
   top:84px;
   width:125px;
   height:22px;
@@ -2476,7 +2476,7 @@
 }
 #u321 {
   position:absolute;
-  left:214px;
+  left:357px;
   top:84px;
   width:125px;
   height:22px;
@@ -2685,5 +2685,105 @@
   left:10px;
   top:10px;
   width:163px;
+  word-wrap:break-word;
+}
+#u335 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u336_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(153, 153, 153, 1);
+  border-radius:3px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u336 {
+  position:absolute;
+  left:72px;
+  top:80px;
+  width:131px;
+  height:30px;
+}
+#u337 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:127px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u338 {
+  position:absolute;
+  left:95px;
+  top:83px;
+  width:101px;
+  height:25px;
+}
+#u338_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:101px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+  border-color:transparent;
+  outline-style:none;
+}
+#u339_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:20px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:center;
+}
+#u339 {
+  position:absolute;
+  left:75px;
+  top:85px;
+  width:20px;
+  height:20px;
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:center;
+}
+#u340 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:20px;
   word-wrap:break-word;
 }
