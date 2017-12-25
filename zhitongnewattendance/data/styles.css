@@ -105,6 +105,10 @@
   font-weight:normal;
   font-style:normal;
 }
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -114,6 +118,14 @@
 .box_3 {
 }
 .line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .checkbox {
   text-align:left;
@@ -145,7 +157,27 @@
   font-size:24px;
   text-align:left;
 }
+.paragraph1 {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .shape {
+}
+.image1 {
+  color:#000000;
 }
 .box_2 {
 }
