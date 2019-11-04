@@ -13,6 +13,9 @@
 }
 .button {
 }
+._图片 {
+  color:#000000;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -97,6 +100,8 @@
 }
 .tree_node {
   text-align:left;
+}
+.table_cell {
 }
 .icon {
 }
