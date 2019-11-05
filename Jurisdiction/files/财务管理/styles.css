@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1540_div {
+#u1542_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -28,64 +28,14 @@
   font-size:18px;
   color:#FFFFFF;
 }
-#u1540 {
-  position:absolute;
-  left:2px;
-  top:0px;
-  width:190px;
-  height:43px;
-  font-size:18px;
-  color:#FFFFFF;
-}
-#u1541 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:186px;
-  word-wrap:break-word;
-}
-#u1542_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:190px;
-  height:43px;
-  background:inherit;
-  background-color:rgba(107, 107, 107, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:18px;
-  color:#FFFFFF;
-}
 #u1542 {
   position:absolute;
   left:2px;
-  top:43px;
-  width:190px;
-  height:43px;
-  font-size:18px;
-  color:#FFFFFF;
-}
-#u1542_div.selected {
-  position:absolute;
-  left:0px;
   top:0px;
   width:190px;
   height:43px;
-  background:inherit;
-  background-color:rgba(107, 107, 107, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
   font-size:18px;
   color:#FFFFFF;
-}
-#u1542.selected {
 }
 #u1543 {
   position:absolute;
@@ -94,14 +44,64 @@
   width:186px;
   word-wrap:break-word;
 }
+#u1544_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:43px;
+  background:inherit;
+  background-color:rgba(107, 107, 107, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+  color:#FFFFFF;
+}
 #u1544 {
+  position:absolute;
+  left:2px;
+  top:43px;
+  width:190px;
+  height:43px;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u1544_div.selected {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:43px;
+  background:inherit;
+  background-color:rgba(107, 107, 107, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u1544.selected {
+}
+#u1545 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:186px;
+  word-wrap:break-word;
+}
+#u1546 {
   position:absolute;
   left:192px;
   top:-1px;
   width:1687px;
   height:1121px;
 }
-#u1544_input {
+#u1546_input {
   position:absolute;
   left:0px;
   top:0px;
