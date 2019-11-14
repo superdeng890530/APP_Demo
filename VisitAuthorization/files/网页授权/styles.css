@@ -1,0 +1,142 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1020px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u844_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:270px;
+}
+#u844 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:1000px;
+  height:270px;
+}
+#u845 {
+  position:absolute;
+  left:2px;
+  top:127px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u846_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:43px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u846 {
+  position:absolute;
+  left:739px;
+  top:136px;
+  width:43px;
+  height:17px;
+}
+#u847 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:43px;
+  white-space:nowrap;
+}
+#u848 {
+  position:absolute;
+  left:792px;
+  top:134px;
+  width:131px;
+  height:22px;
+}
+#u848_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:22px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u848_input:disabled {
+  color:grayText;
+}
+#u849 {
+  position:absolute;
+  left:449px;
+  top:131px;
+  width:216px;
+  height:28px;
+}
+#u849_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:216px;
+  height:28px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u849_input:disabled {
+  color:grayText;
+}
+#u850_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:23px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FF0000;
+}
+#u850 {
+  position:absolute;
+  left:729px;
+  top:136px;
+  width:23px;
+  height:19px;
+  font-size:16px;
+  color:#FF0000;
+}
+#u851 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:23px;
+  word-wrap:break-word;
+}
