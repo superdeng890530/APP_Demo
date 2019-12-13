@@ -104,3 +104,15 @@
 .radio_button {
   text-align:left;
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.marker {
+  color:#FFFFFF;
+}
