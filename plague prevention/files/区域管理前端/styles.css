@@ -14341,3 +14341,30 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u1761_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:100px;
+}
+#u1761 {
+  position:absolute;
+  left:808px;
+  top:2268px;
+  width:100px;
+  height:100px;
+  -webkit-transform:rotate(15deg);
+  -moz-transform:rotate(15deg);
+  -ms-transform:rotate(15deg);
+  transform:rotate(15deg);
+  font-size:18px;
+  color:#999999;
+}
+#u1762 {
+  position:absolute;
+  left:2px;
+  top:39px;
+  width:96px;
+  word-wrap:break-word;
+}
