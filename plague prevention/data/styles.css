@@ -15,6 +15,10 @@
   color:#000000;
   text-align:left;
 }
+._多行文本框 {
+  color:#000000;
+  text-align:left;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -64,6 +68,8 @@
   text-align:left;
 }
 .line {
+}
+.arrow {
 }
 .text_field {
   color:#000000;
