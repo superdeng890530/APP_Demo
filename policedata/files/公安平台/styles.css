@@ -31,7 +31,7 @@
 #u182 {
   position:absolute;
   left:0px;
-  top:57px;
+  top:56px;
   width:183px;
   height:54px;
   font-size:16px;
@@ -89,4 +89,36 @@
   top:0px;
   width:1300px;
   height:945px;
+}
+#u187_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(31, 45, 61, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u187 {
+  position:absolute;
+  left:0px;
+  top:110px;
+  width:183px;
+  height:54px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u188 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:179px;
+  word-wrap:break-word;
 }

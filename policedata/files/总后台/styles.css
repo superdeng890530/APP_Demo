@@ -3682,7 +3682,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
+  border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -3726,7 +3726,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:196px;
+  width:201px;
   white-space:nowrap;
 }
 #u139_img {

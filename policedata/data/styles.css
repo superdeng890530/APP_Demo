@@ -51,7 +51,17 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
 }
 .primary_button {
   color:#FFFFFF;
@@ -69,6 +79,10 @@
 }
 .box_2 {
 }
+.image {
+}
+.button {
+}
 .sticky_1 {
   text-align:left;
 }
@@ -81,4 +95,6 @@
 .droplist {
   color:#000000;
   text-align:left;
+}
+.icon1 {
 }
