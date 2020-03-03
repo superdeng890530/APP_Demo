@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:183px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,132 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u0_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(31, 45, 61, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:13px;
+  width:183px;
+  height:54px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:179px;
+  word-wrap:break-word;
+}
+#u2_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(48, 65, 86, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:67px;
+  width:183px;
+  height:54px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:179px;
+  word-wrap:break-word;
+}
+#u4_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(48, 65, 86, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u4 {
+  position:absolute;
+  left:0px;
+  top:120px;
+  width:183px;
+  height:54px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:179px;
+  word-wrap:break-word;
+}
+#u6_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(48, 65, 86, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u6 {
+  position:absolute;
+  left:0px;
+  top:174px;
+  width:183px;
+  height:54px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:179px;
+  word-wrap:break-word;
 }
